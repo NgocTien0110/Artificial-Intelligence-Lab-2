@@ -1,0 +1,37 @@
+6
+D OR S
+D OR R
+N OR R OR S OR -W
+-D OR N
+-D OR G OR -W
+-N
+13
+-D OR G
+N OR R OR S
+-D OR -W
+N OR R OR -W
+N OR S OR -W
+D
+-D
+R OR S OR -W
+N OR R
+G OR R OR -W
+N OR S
+G OR S OR -W
+G OR R OR S OR -W
+14
+N OR -W
+S OR -W
+G OR R OR S
+R OR S
+G OR S
+G OR R
+R OR -W
+G OR -W
+N
+{}
+G
+-W
+S
+R
+YES
