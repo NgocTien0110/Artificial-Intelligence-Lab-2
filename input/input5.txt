@@ -1,6 +1,0 @@
--A OR D
-4
--A OR B
--B OR C
--C OR -A
-A OR D
